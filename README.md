@@ -1,4 +1,4 @@
-# Linked_Lists--TOP
+# Linked_Lists-TOP
 
 Solution for TheOdinProject: Linked Lists: https://www.theodinproject.com/lessons/javascript-linked-lists
 
