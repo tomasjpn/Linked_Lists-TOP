@@ -3,7 +3,7 @@
 Solution for TheOdinProject: Linked Lists: https://www.theodinproject.com/lessons/javascript-linked-lists
 
 
-#### class LinkedList
+## class LinkedList
 
 Methoden: 
 
@@ -13,6 +13,7 @@ Methoden:
 
 Fügt einen neuen Knoten mit dem angegebenen Wert am Anfang der Liste hinzu.
 
+---
 
 #### **`addEnd(value)`**
 
@@ -20,6 +21,7 @@ Fügt einen neuen Knoten mit dem angegebenen Wert am Anfang der Liste hinzu.
 
 Fügt einen neuen Knoten mit dem angegebenen Wert am Ende der Liste hinzu.
 
+---
 
 #### **`returnSize()`**
 
@@ -27,6 +29,7 @@ Fügt einen neuen Knoten mit dem angegebenen Wert am Ende der Liste hinzu.
 
 Gibt die Gesamtzahl der Knoten in der Liste zurück.
 
+---
 
 #### **`returnHead()`**
 
@@ -34,6 +37,7 @@ Gibt die Gesamtzahl der Knoten in der Liste zurück.
 
 Gibt den Head (Anfang) der Liste zurück.
 
+---
 
 #### **`returnTail()`**
 
@@ -41,6 +45,7 @@ Gibt den Head (Anfang) der Liste zurück.
 
 Gibt das Tail (Ende) der Liste zurück.
 
+---
 
 #### **`searchAtIndex(index)`**
 
@@ -48,6 +53,7 @@ Gibt das Tail (Ende) der Liste zurück.
 
 Gibt den Knoten an der angegebenen Indexposition zurück.
 
+---
 
 #### **`removeLastNode()`**
 
@@ -55,6 +61,7 @@ Gibt den Knoten an der angegebenen Indexposition zurück.
 
 Entfernt den letzten Knoten aus der Liste.
 
+---
 
 #### **`containsValue(value)`**
 
@@ -62,6 +69,7 @@ Entfernt den letzten Knoten aus der Liste.
 
 Überprüft, ob ein Knoten mit dem angegebenen Wert in der Liste vorhanden ist.
 
+---
 
 #### **`findIndex(value)`**
 
@@ -69,6 +77,7 @@ Entfernt den letzten Knoten aus der Liste.
 
 Sucht den Index des ersten Knotens mit dem angegebenen Wert.
 
+---
 
 #### **`toString()`**
 
@@ -76,6 +85,7 @@ Sucht den Index des ersten Knotens mit dem angegebenen Wert.
 
 Gibt die gesamte Liste als String zurück.
 
+---
 
 #### **`insertAt(value, index)`**
 
@@ -83,6 +93,7 @@ Gibt die gesamte Liste als String zurück.
 
 Fügt einen neuen Knoten mit dem angegebenen Wert an der angegebenen Indexposition ein.
 
+---
 
 #### **`removeAt(index)`**
 
@@ -90,6 +101,7 @@ Fügt einen neuen Knoten mit dem angegebenen Wert an der angegebenen Indexpositi
 
 Entfernt den Knoten an der angegebenen Indexposition aus der Liste.
 
+---
 
 #### **`displayAllValues()`**
 
